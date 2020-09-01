@@ -1,2 +1,1 @@
-# tindog
-"Tindog" website made with Html/ Css and Bootstrap 4
+TinDog Starting Files
